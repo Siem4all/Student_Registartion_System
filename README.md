@@ -34,5 +34,5 @@ To install XAMPP or WAMP, follow these steps:
 
 To install Composer, follow these steps:
 
-1. Download <a href="https://getcomposer.org/Composer-Setup.exe">Composer setup</a> .
+1. Download <a href="https://getcomposer.org/Composer-Setup.exe">Composer setup</a>.
 2. Run the Composer setup  and follow the installation instructions. During the installation process, you will be prompted to select a PHP executable file and set up the PATH environment variable.
