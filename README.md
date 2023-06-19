@@ -1,6 +1,6 @@
 # How to run the project
 
-1. Dwonload the project and rename it to target
+1. Download the project and rename it to target
 
 2. <a href="https://getcomposer.org/Composer-Setup.exe">Download Composer<a> if you don't have it
 
