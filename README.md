@@ -2,7 +2,7 @@
 
 1. Dwonload the project and rename it to target
 
-2. Install composer using this link <a href="https://getcomposer.org/Composer-Setup.exe">Download Composer<a> if you don't have it
+2. <a href="https://getcomposer.org/Composer-Setup.exe">Download Composer<a> if you don't have it
 
 3. Download to install xampp or wampp If you don't install either of them
 
