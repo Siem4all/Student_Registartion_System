@@ -4,7 +4,7 @@
 
 2. <a href="https://getcomposer.org/Composer-Setup.exe">Download Composer<a> if you don't have it
 
-3. Download to install xampp or wampp If you don't install either of them
+3. Download to install either <a href="https://www.apachefriends.org/download.html">xampp</a> or <a href="https://sourceforge.net/projects/wampserver/">wamp</a> If you don't install either of them
 
 4. Paste the project in your xampp/htdocs or wamp/www folder
 
