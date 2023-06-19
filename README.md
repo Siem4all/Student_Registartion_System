@@ -11,7 +11,7 @@ To download and use this project, follow these steps:
 
 5. Extract the contents of the ZIP file to your xampp/htdocs or wamp/www folder and rename it to "target".
 
-6. Create database with the name "target_db.sql" and import the sql file from target/database/target_db.sql to the database you created.
+6. Create database with the name "target_db.sql" and import the sql file from target/database/target_db.sql to the database you have created.
 
 7. Open your web browser and navigate to "http://localhost/target" to view the project.
 
