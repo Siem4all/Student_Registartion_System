@@ -10,7 +10,7 @@
 
 5. Create database with the name target_db.sql and import the sql file from target/database/target_db.sql to the database you created
 
-6. Type "localhost/target" in your browser's url
+6. Type "localhost/target" in your browser's URL
 
 7. Login credentials
 
