@@ -8,9 +8,9 @@
 
 4. Paste the project in your xampp/htdocs or wamp/www folder
 
-5. Create database with the name target_db.sql and import the sql file from student_registration_system/database/target_db.sql to database
+5. Create database with the name target_db.sql and import the sql file from target/database/target_db.sql to database
 
-6. Type "localhost/project name" in the url
+6. Type "localhost/target" in the url
 
 7. Login credentials
 
