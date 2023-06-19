@@ -30,7 +30,7 @@ To install XAMPP or WAMP, follow these steps:
 
 2. Run the installer and follow the installation instructions.
 
-3. Start the Apache and MySQL services in XAMPP or WAMP.
+3. Start the Apache and MySQL services in XAMPP or WAMP server.
 
 To install Composer, follow these steps:
 
