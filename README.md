@@ -13,13 +13,9 @@ To download and use this project, follow these steps:
 
 6. Create database with the name "target_db.sql" and import the sql file from target/database/target_db.sql to the database you have created.
 
-7. Open a terminal or command prompt and navigate to the project directory.
+7. Open your web browser and navigate to "http://localhost/target" to view the project.
 
-8. Run the command "php artisan serve" to start the Laravel development server.
-
-9. Open your web browser and navigate to http://localhost:8000 to view the project.
-
-10. Login credentials
+8. Login credentials
 
    Email: siemghiwet@gmail.com
    
