@@ -9,11 +9,11 @@ To download and use this project, follow these steps:
 
 4. Download and install xampp or wamp server by following the instructions in the "Prerequisites" section below if you have not downloaded and installed either of them.
 
-5. Extract the contents of the ZIP file to your xampp/htdocs or wamp/www folder.
+5. Extract the contents of the ZIP file to your xampp/htdocs or wamp/www folder and rename it to "target".
 
-6. Create database with the name target_db.sql and import the sql file from target/database/target_db.sql to the database you created
+6. Create database with the name "target_db.sql" and import the sql file from target/database/target_db.sql to the database you created.
 
-7. Type "localhost/target" in your browser's URL
+7. Open your web browser and navigate to "http://localhost/target" to view the project.
 
 8. Login credentials
 
